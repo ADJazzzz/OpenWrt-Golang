@@ -1,6 +1,6 @@
-OpenWrt golang version 1.22 for compile xray-core etc.
+OpenWrt golang version 1.22 for compiling xray-core etc.
 
-### INSTALL
+### USE
 
 1. delect old version
 
